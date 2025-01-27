@@ -66,4 +66,3 @@
 (define-read-only (get-last-listing-id)
   (var-get listing-nonce)
 )
-
