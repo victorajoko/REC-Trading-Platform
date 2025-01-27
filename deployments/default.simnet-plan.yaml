@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/rec-registry.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: rec-trading
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/rec-trading.clar
+            clarity-version: 2
       epoch: "2.5"
